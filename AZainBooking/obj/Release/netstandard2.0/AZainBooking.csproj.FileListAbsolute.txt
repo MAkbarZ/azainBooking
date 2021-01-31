@@ -1,0 +1,14 @@
+E:\MobileApps\AZainBooking\AZainBooking\bin\Release\netstandard2.0\AZainBooking.deps.json
+E:\MobileApps\AZainBooking\AZainBooking\bin\Release\netstandard2.0\AZainBooking.dll
+E:\MobileApps\AZainBooking\AZainBooking\bin\Release\netstandard2.0\ref\AZainBooking.dll
+E:\MobileApps\AZainBooking\AZainBooking\bin\Release\netstandard2.0\AZainBooking.pdb
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.csprojAssemblyReference.cache
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.AssemblyInfoInputs.cache
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.AssemblyInfo.cs
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.csproj.CoreCompileInputs.cache
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\XamlC.stamp
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.dll
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\ref\AZainBooking.dll
+E:\MobileApps\AZainBooking\AZainBooking\obj\Release\netstandard2.0\AZainBooking.pdb

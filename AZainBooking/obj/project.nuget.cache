@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "ziW9fdCCO5YoAbv6EcLIxly+l1IKlZXfkzqC1NtQfIWQBNyZ032lM19PWMtnsvEvi0gJ+0B2U1MjBQDa8zzVmg==",
+  "success": true,
+  "projectFilePath": "E:\\MobileApps\\AZainBookingRepo\\AZainBooking\\AZainBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\microsoft.appcenter\\4.1.0\\microsoft.appcenter.4.1.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\microsoft.appcenter.analytics\\4.1.0\\microsoft.appcenter.analytics.4.1.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\microsoft.appcenter.crashes\\4.1.0\\microsoft.appcenter.crashes.4.1.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\microsoft.appcenter.distribute\\4.1.0\\microsoft.appcenter.distribute.4.1.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\ZainKomai\\.nuget\\packages\\xamarin.forms\\5.0.0.1931\\xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}
