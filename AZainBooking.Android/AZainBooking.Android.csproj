@@ -39,7 +39,7 @@
     <BundleAssemblies>false</BundleAssemblies>
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
-    <AndroidUseAapt2>false</AndroidUseAapt2>
+    <AndroidUseAapt2>true</AndroidUseAapt2>
     <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSigningKeyStore>C:\Users\ZainKomai\AppData\Local\Xamarin\Mono for Android\Keystore\azainkey\azainkey.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>@#$G123Desdf&amp;%^*</AndroidSigningStorePass>
