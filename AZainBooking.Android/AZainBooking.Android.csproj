@@ -40,7 +40,7 @@
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
     <AndroidUseAapt2>false</AndroidUseAapt2>
-    <AndroidKeyStore>true</AndroidKeyStore>
+    <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSigningKeyStore>C:\Users\ZainKomai\AppData\Local\Xamarin\Mono for Android\Keystore\azainkey\azainkey.keystore</AndroidSigningKeyStore>
     <AndroidSigningStorePass>@#$G123Desdf&amp;%^*</AndroidSigningStorePass>
     <AndroidSigningKeyAlias>azainKey</AndroidSigningKeyAlias>
@@ -124,7 +124,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <ProjectExtensions>
     <VisualStudio>
-      <UserProperties XamarinHotReloadDebuggerTimeoutExceptionAZainBookingAndroidHideInfoBar="True" TriggeredFromHotReload="False" />
+      <UserProperties TriggeredFromHotReload="False" XamarinHotReloadDebuggerTimeoutExceptionAZainBookingAndroidHideInfoBar="True" />
     </VisualStudio>
   </ProjectExtensions>
 </Project>

@@ -90,3 +90,5 @@ androidx.asynclayoutinflater.asynclayoutinflater
 androidx.legacy.legacy-support-core-ui
 androidx.legacy.legacy-support-v4
 androidx.browser.browser
+Microsoft.AppCenter.Distribute.Android.Bindings
+Microsoft.AppCenter.Distribute
